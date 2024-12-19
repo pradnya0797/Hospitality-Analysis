@@ -19,8 +19,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 ## Tools Used
-1. Power BI
-2. MS Excel
+1. Microsoft Power BI
+2. Microsoft Excel
 
 ## Key Insights
 1. Mumbai leads in revenue contribution across all months.
