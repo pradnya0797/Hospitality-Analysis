@@ -1,4 +1,4 @@
-# Revenue insights in Hospitality domain
+# Revenue Insights in Hospitality domain
 
 - Domain:  Hospitality       
 - Function: Revenue
